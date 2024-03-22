@@ -1,0 +1,15 @@
+
+
+{
+  "manifest_version": 3,
+  "name": "Crypto Tracker",
+  "version": "1.0",
+  "description": "Track top gainers and losers in the cryptocurrency market.",
+  "permissions": [
+    "https://api.coingecko.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    
+  }
+}
